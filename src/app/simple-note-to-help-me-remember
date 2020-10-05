@@ -1,0 +1,11 @@
+-it took time to download but all my work with be on the app folder for now.
+
+-this is what i add after downloading boostrap, jquery and popper.js then i added this...
+   "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "src/styles.css"
+            ],
+            "scripts": [
+              "node_modules/jquery/dist/jquery.min.js",
+              "node_modules/bootstrap/dist/js/bootstrap.min.js"
+            ]
